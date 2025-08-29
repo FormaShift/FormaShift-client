@@ -1,0 +1,24 @@
+{
+  "Author": "Anthromorph",
+  "Name": "FormaShift",
+  "InternalName": "FormaShifting Synchonization",
+  "AssemblyVersion": "0.1",
+  "TestingAssemblyVersion": "0.1",
+  "Description": "synchonization of visuals. At your pleasure of tendencies",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://raw.FormaShift.ing/around.json",
+  "Tags": [
+    "customization"
+  ],
+  "DalamudApiLevel": 13,
+  "TestingDalamudApiLevel": 13,
+  "LoadPriority": 0,
+  "IconUrl": "https://cdn.FormaShift.ing/icon.png",
+  "Punchline": "Visually Appeal for all",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "CanUnloadAsync": true,
+  "DownloadLinkInstall": "https://magic.FormaShift.ing/latest-release.zip",
+  "DownloadLinkTesting": "https://magic.FormaShift.ing/Testing-release.zip",
+  "DownloadLinkUpdate": "https://magic.FormaShift.ing/latest-release.zip"
+}
