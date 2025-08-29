@@ -1,0 +1,6 @@
+[submodule "FormaShiftAPI"]
+	path = FormaShiftAPI
+	url = https://github.com/FormaShift/FormaShift-api.git
+[submodule "FormaShift-API"]
+	path = FormaShift-API
+	url = https://github.com/FormaShift/FormaShift-api
